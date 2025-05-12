@@ -1,0 +1,8 @@
+<section id="hero" class="hero">
+ <div class="container">
+  <img src="banner.png" alt="M. A. Coleman Insurance Banner" style="max-width: 100%;">
+  <h2>Your Trusted Partner in Navigating Medicare & Medicaid</h2>
+  <p>M. A. Coleman Insurance, led by Michelle Denise Anthony, is here to guide you through every step.</p>
+  <a href="#contact" class="button primary">Contact Us</a>
+ </div>
+</section>
