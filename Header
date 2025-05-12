@@ -1,0 +1,15 @@
+<header>
+ <div class="container">
+  <img src="logo.png" alt="M. A. Coleman Insurance Logo">
+  <h1>M. A. Coleman Insurance</h1>
+  ...
+ </div>
+</header>
+
+<section id="about" class="about">
+ <div class="container">
+  <img src="logo.png" alt="M. A. Coleman Insurance Logo">
+  <h2>About M. A. Coleman Insurance</h2>
+  ...
+ </div>
+</section>
